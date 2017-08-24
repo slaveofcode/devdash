@@ -14,3 +14,5 @@ Developer Dashboard, An open source application for developers to keep an eye on
 - Team file sharing
 - Git tracking integration
 - Alert system & notification
+- Notes, Scratch
+- end-to-end encryption
