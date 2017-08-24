@@ -10,6 +10,7 @@ Developer Dashboard, An open source application for developers to keep an eye on
   - Tech / startup news website (techinasia, mashable, techcrunch, thenextweb, digitaltrends, techradar)
 - Api integration / webhook
 - Bookmarking from news
-- Chat app
+- Personal & Group chatting
 - Team file sharing
 - Git tracking integration
+- Alert system & notification
