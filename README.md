@@ -8,6 +8,7 @@ Developer Dashboard, An open source application for developers to keep an eye on
   - Hackernews
   - Github trending
   - Tech / startup news website (techinasia, mashable, techcrunch, thenextweb, digitaltrends, techradar)
+- Diagram Flow / feature flow documentation
 - Api integration / webhook
 - Bookmarking from news
 - Personal & Group chatting
