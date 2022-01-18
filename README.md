@@ -1,24 +1,23 @@
-# devdash
+# DevDash
+Developer Dashboard, An open source application for developers to keep an eye on their project, statuses and several useful information from different sources.
 
-## Project setup
-```
-npm install
-```
+## Essential Features
+- Personal TODO / Task
+- Diagram Flow / feature flow documentation
+- Api Documentation
+- Personal Notes (Markdown)
+- Whiteboard Scratch
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Nice to Have Features
+- User management
+- Group management
+- Tech News
+  - Hackernews
+  - Github trending
+  - Tech / startup news website (techinasia, mashable, techcrunch, thenextweb, digitaltrends, techradar)
+- Bookmarking from news
+- Group chats
+- Team file sharing
+- Git tracking integration
+- Webhook alert / notification
+- E2E encryption
