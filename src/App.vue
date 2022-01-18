@@ -5,11 +5,15 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import { invoke } from '@tauri-apps/api/tauri'
 
 export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  mounted(){
+    invoke('close_splashscreen');
   }
 }
 </script>
